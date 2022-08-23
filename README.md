@@ -6,4 +6,4 @@ Run the below command in the terminal to initiate the pipeline.
 
 ```bash
 python virgin_test/src/transactions_pipeline.py
-```# virgin-apache-beam
+```

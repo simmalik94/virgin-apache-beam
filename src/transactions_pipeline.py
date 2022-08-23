@@ -1,5 +1,5 @@
 import apache_beam as beam
-from src.transformations import Transform
+from transformations import Transform
 
 with beam.Pipeline() as p1:
     data = (p1
